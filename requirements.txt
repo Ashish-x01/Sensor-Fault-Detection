@@ -1,0 +1,3 @@
+pandas
+numpy
+# -e. to directly run or install setup.py file from the reuirements.txt by pip install -r requirements.txt
